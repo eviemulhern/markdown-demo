@@ -1,2 +1,5 @@
 title: Evie's Demo Website
 decription: This is a description
+theme: minima
+plugins:
+- jekyll-remote-theme
